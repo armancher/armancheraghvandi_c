@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  #red {
+    width: 500px;
+    height: 300px;
+    border-radius: 3px;
+    background-color: red;
+   margin-left: 30%;
+   margin-top: 10%;
+    
+    color: white;
+  }

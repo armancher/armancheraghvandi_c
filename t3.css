@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+  }
+  .div {
+    margin-left: 40px;
+    width: 70%;
+    overflow: hidden;
+    background-color: #17e717;
+    border: 2px solid black;
+   
+    
+  }
+  #parent {
+    height: auto;
+    
+    margin-bottom: 30px;
+  }
+  #target {
+    height: auto;
+    margin-top: 13px;
+    
+    margin-bottom: 20px;
+  }
+  #child {
+    height: auto;
+    margin-top: 10px;
+    
+    margin-bottom: 15px;
+  }

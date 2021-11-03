@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #89f51d;
+}
+.container {
+    width: 800px;
+    height: 300px;
+     display: flex; 
+    flex-direction: column;
+    padding: 200px;
+    overflow: auto;
+    background: rgb(61, 49, 112);
+    margin-left: 30%;
+}
+.input {
+    height: 30px;
+    padding-left: 3px;
+}
+div.container div {
+    margin-top: 10px;
+    align-self: center;
+}
